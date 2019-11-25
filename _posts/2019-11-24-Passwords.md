@@ -1,4 +1,4 @@
-#Passwords
+# Passwords
 
 As you might have noticed over the years, companies have been forcing you to modify your passwords to make it harder for  you to remember.  Nowadays, their mandates usually include:
 

@@ -1,1 +1,9 @@
+title: Cyber Security
+author: Charles A. Vigorita
+email: your-email@domain.com
+description: Daily Tips
+github_username:  CozmicChaz
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-hacker
